@@ -1,0 +1,17 @@
+# Directorios y archivos que se ignoran
+
+# Directorios
+__pycache__/
+env/
+venv/
+db/
+
+# Otros archivos y directorios que se ignoran
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de configuración de streamlit
+streamlit/config.toml
+streamlit/credentials.toml
