@@ -11,6 +11,7 @@ db/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+poetry.lock
 
 # Archivos de configuración de streamlit
 streamlit/config.toml
